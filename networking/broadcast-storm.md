@@ -15,3 +15,5 @@ Loop de camada 2 em porta trunk/uplink.
 - Switch management
 - Logs
 - Monitoramento de rede
+
+Vivencia em um dia de trabalho. 
